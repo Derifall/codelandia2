@@ -7,7 +7,7 @@ import Description from './components/layout/Description'
 import Card from './components/layout/Card'
 import Footer from './components/layout/Footer'
 
-export default () => (
+export default props =>
   <div className="App">
     <HeaderHome Desconto="Ganhe R$ 10,00 de desconto no frete" HeaderName="Jordan Shoes"/>
     <WallpaperHome Titulo="A melhor loja de Jordan" Texto="O tênis Jordan é fruto de uma velha e forte parceria entre a Nike e o jogador Michael Jordan."/>
@@ -15,4 +15,3 @@ export default () => (
     <Card />
     <Footer Rodape="Todos os direitos reservados."/>
   </div>
-)
