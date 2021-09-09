@@ -1,7 +1,7 @@
 import React from 'react'
 import './Description.css'
 
-export default props => (
+export default () => (
   <div className="Description">
     <div className="SegundoTitulo">
       <h1>

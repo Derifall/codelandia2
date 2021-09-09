@@ -1,7 +1,7 @@
 import React from 'react'
 import './HeaderHome.css'
 
-export default props => (
+export default () => (
   <div className="HeaderHome">
     <div className="Desconto">
       <p>

@@ -1,7 +1,7 @@
 import React from 'react'
 import './Footer.css'
 
-export default props => (
+export default () => (
   <div className="Rodape">
     <p>
       {props.Rodape}

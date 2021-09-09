@@ -2,7 +2,7 @@ import React from 'react'
 import './Main.css'
 import Wallpaper from '../img/wallpaper.jpeg'
 
-export default props => (
+export default () => (
     <div className="WallpaperHome">
       <div className="Titulo">
         <h1>
