@@ -1,0 +1,10 @@
+.Rodape {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+
+  color: var(--color-title-one);
+  background-color: var(--color-title-two);
+
+  padding: 1rem 0 1rem 0;
+}

@@ -1,0 +1,48 @@
+.WallpaperHome {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+
+  width: 100%;
+  height: 25rem;
+}
+
+.Titulo {
+  color: var(--color-title-one);
+  font-size: var(--title-font-size);
+  font-weight: 700;
+  padding-left: 5%;
+}
+
+.Texto {
+  color: var(--color-title-one);
+  font-size: var(--text-font-size);
+  font-weight: 600;
+  padding-left: 5%;
+
+  word-break: keep-all;
+  line-height: 2.5rem;
+  padding-top: 1.8rem;
+}
+
+.WallpaperImg {
+  display: flex;
+  flex-wrap: wrap;
+  position: absolute;
+  width: 100%;
+  overflow: hidden;
+  z-index: -1;
+}
+
+.WallpaperImg > img {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 25rem;
+  width: 100%;
+  filter: brightness(50%);
+}

@@ -1,0 +1,200 @@
+.Card {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  margin: 0 6.25rem 6.25rem 6.5rem;
+}
+
+.PictureOne {
+  background-color: var(--color-card);
+
+  margin-top: 2.5rem;
+  margin-right: 0.8125rem;
+}
+
+.PictureOne > img:hover {
+  transform: scale(130%);
+  transition: 0.3s;
+}
+
+.PictureOne > img {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  width: 15.625rem;
+  height: 9.375rem;
+
+  margin: 4.75rem 1.5625rem;
+  transition: 0.3s;
+}
+
+.PictureTwo {
+  background-color: var(--color-card);
+
+  margin-top: 2.5rem;
+  margin-right: 0.8125rem;
+}
+
+.PictureTwo > img:hover {
+  transform: scale(130%);
+  transition: 0.3s;
+}
+
+.PictureTwo > img {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  width: 15.625rem;
+  height: 9.375rem;
+
+  margin: 4.75rem 1.5625rem;
+  transition: 0.3s;
+}
+
+.PictureThree {
+  background-color: var(--color-card);
+
+  margin-top: 2.5rem;
+  margin-right: 0.8125rem;
+}
+
+.PictureThree > img:hover {
+  transform: scale(130%);
+  transition: 0.3s;
+}
+
+.PictureThree > img {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  width: 15.625rem;
+  height: 9.375rem;
+
+  margin: 4.75rem 1.5625rem;
+  transition: 0.3s;
+}
+
+.PictureFour {
+  background-color: var(--color-card);
+
+  margin-top: 2.5rem;
+  margin-right: 0.8125rem;
+}
+
+.PictureFour > img:hover {
+  transform: scale(130%);
+  transition: 0.3s;
+}
+
+.PictureFour > img {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  width: 15.625rem;
+  height: 9.375rem;
+
+  margin: 4.75rem 1.5625rem;
+  transition: 0.3s;
+}
+
+.PictureFive {
+  background-color: var(--color-card);
+
+  margin-top: 2.5rem;
+  margin-right: 0.8125rem;
+}
+
+.PictureFive > img:hover {
+  transform: scale(130%);
+  transition: 0.3s;
+}
+
+.PictureFive > img {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  width: 15.625rem;
+  height: 9.375rem;
+
+  margin: 4.75rem 1.5625rem;
+  transition: 0.3s;
+}
+
+.PictureSix {
+  background-color: var(--color-card);
+
+  margin-top: 2.5rem;
+  margin-right: 0.8125rem;
+}
+
+.PictureSix > img:hover {
+  transform: scale(130%);
+  transition: 0.3s;
+}
+
+.PictureSix > img {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  width: 15.625rem;
+  height: 9.375rem;
+
+  margin: 4.75rem 1.5625rem;
+  transition: 0.3s;
+}
+
+.PictureSeven {
+  background-color: var(--color-card);
+
+  margin-top: 2.5rem;
+  margin-right: 0.8125rem;
+}
+
+.PictureSeven > img:hover {
+  transform: scale(130%);
+  transition: 0.3s;
+}
+
+.PictureSeven > img {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  width: 15.625rem;
+  height: 9.375rem;
+
+  margin: 4.75rem 1.5625rem;
+  transition: 0.3s;
+}
+
+.PictureEight {
+  background-color: var(--color-card);
+
+  margin-top: 2.5rem;
+  margin-right: 0.8125rem;
+}
+
+.PictureEight > img:hover {
+  transform: scale(130%);
+  transition: 0.3s;
+}
+
+.PictureEight > img {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  width: 15.625rem;
+  height: 9.375rem;
+
+  margin: 4.75rem 1.5625rem;
+  transition: 0.3s;
+}

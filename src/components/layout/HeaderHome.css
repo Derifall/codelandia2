@@ -1,0 +1,20 @@
+.HeaderHome {
+  text-align: center;
+}
+
+.Desconto {
+  font-weight: 500;
+
+  font-size: var(--text-font-size);
+  color: var(--color-title-one);
+  background-color: var(--color-title-two);
+  padding: 1rem 0 1rem 0;
+}
+
+.HeaderName {
+  font-weight: 600;
+  font-size: var(--header-font-size);
+
+  background-color: white;
+  padding: 0.6rem 0 0.6rem 0;
+}
