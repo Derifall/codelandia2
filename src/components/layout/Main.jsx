@@ -3,6 +3,7 @@ import './Main.css'
 import Wallpaper from '../img/wallpaper.jpeg'
 
 function WallpaperHome(props) {
+  return (
     <div className="WallpaperHome">
       <div className="Titulo">
         <h1>
@@ -18,5 +19,6 @@ function WallpaperHome(props) {
         <img src={Wallpaper} alt="Wallpaper Tênis Jordan" />
       </div>
     </div>
+  )
 }
 export default WallpaperHome
