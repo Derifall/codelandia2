@@ -1,7 +1,7 @@
 import React from 'react'
 import './Description.css'
 
-export default props =>
+function Description(props) {
   <div className="Description">
     <div className="SegundoTitulo">
       <h1>
@@ -14,3 +14,5 @@ export default props =>
       </p>
     </div>
   </div>
+}
+export default Description

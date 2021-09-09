@@ -9,7 +9,7 @@ import TenisSeis from '../img/6.png'
 import TenisSete from '../img/7.png'
 import TenisOito from '../img/8.png'
 
-export default props =>
+function Card() {
   <div className="Card">
     <div className="PictureOne">
       <img src={TenisUm} alt="Tênis Jordan um"/>
@@ -36,4 +36,5 @@ export default props =>
       <img src={TenisOito} alt="Tênis Jordan oito"/>
     </div>
   </div>
-  
+}
+export default Card

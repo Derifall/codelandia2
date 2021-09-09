@@ -1,7 +1,7 @@
 import React from 'react'
 import './HeaderHome.css'
 
-export default props =>
+function HeaderHome(props) {
   <div className="HeaderHome">
     <div className="Desconto">
       <p>
@@ -14,4 +14,5 @@ export default props =>
       </h1>
     </div>
   </div>
-  
+}
+export default HeaderHome
